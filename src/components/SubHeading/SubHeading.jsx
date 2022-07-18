@@ -4,7 +4,7 @@ import { images } from '../../constants';
 
 const SubHeading = ({ title }) => (
   <div style={{ marginBottom: '1rem' }}>
-    <p className="p__cormorant"><img src={images.perilica} alt="hands" className="hands__img" />{title}</p>
+    <p className="p__cormorant"><img src={images.perilica} alt="perilica" className="perilica__img" />{title}</p>
     
   </div>
 );

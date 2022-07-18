@@ -23,6 +23,7 @@ import quote from '../assets/quote.png';
 import lavandera from '../assets/lavandera.png';
 import lalavandera from '../assets/lalavandera.png';
 import perilica from '../assets/perilica.svg';
+import pegla from '../assets/pegla.png';
 
 export default {
   bg,
@@ -50,4 +51,5 @@ export default {
   lavandera,
   lalavandera,
   perilica,
+  pegla
 };
