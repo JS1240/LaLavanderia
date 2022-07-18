@@ -17,12 +17,12 @@ const Navbar = () => {
         <img src={images.lavandera} alt="app logo" />
       </div>
         <ul className="app__navbar-links">
-          <li className="p__opensans"><a href="#naslovnica">Naslovnica</a></li>
-          <li className="p__opensans"><a href="#onama">O Nama</a></li>
-          <li className="p__opensans"><a href="#usluge">Usluge</a></li>
-          <li className="p__opensans"><a href="#cjenik">Cjenik</a></li>
-          <li className="p__opensans"><a href="#faq">FAQ</a></li>
-          <li className="p__opensans"><a href="#kontak">Kontakt</a></li>
+          <li><a href="#naslovnica">Naslovnica</a></li>
+          <li><a href="#onama">O Nama</a></li>
+          <li><a href="#usluge">Usluge</a></li>
+          <li><a href="#cjenik">Cjenik</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#kontak">Kontakt</a></li>
         </ul>
       <div className="app__navbar-smallscreen"> 
         <GiHamburgerMenu color="#fff" fontSize={27} onClick={() => setToggleMenu(true)} />

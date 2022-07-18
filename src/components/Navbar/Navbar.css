@@ -23,8 +23,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    color: var(--color-white);
     list-style: none;
+    font-family: var(--font-alt);
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 16px;
 }
 
 .app__navbar-links li {
