@@ -9,7 +9,8 @@ import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
-import spoon from '../assets/spoon.svg';
+import hands from '../assets/hands.png';
+import hands1 from '../assets/hands1.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png';
@@ -19,7 +20,9 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import lavandera from '../assets/lavandera.png'
+import lavandera from '../assets/lavandera.png';
+import lalavandera from '../assets/lalavandera.png';
+import perilica from '../assets/perilica.svg';
 
 export default {
   bg,
@@ -33,7 +36,8 @@ export default {
   logo,
   menu,
   overlaybg,
-  spoon,
+  hands,
+  hands1,
   welcome,
   findus,
   laurels,
@@ -44,4 +48,6 @@ export default {
   sign,
   quote,
   lavandera,
+  lalavandera,
+  perilica,
 };
